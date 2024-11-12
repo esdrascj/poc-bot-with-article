@@ -1,0 +1,16 @@
+
+body{
+    min-width: 372px;
+}
+
+.wrapper{
+    min-height: 100vh;
+}
+
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
